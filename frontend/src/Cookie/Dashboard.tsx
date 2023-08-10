@@ -17,7 +17,7 @@ export default function DashBoard() {
       );
 
    return (
-         <div className="w-[600px] h-[430px] mt-24 p-12 mx-auto flex flex-col rounded-2xl bg-white">
+      <div className="w-[600px] h-[430px] mt-24 p-12 mx-auto flex flex-col rounded-2xl bg-white">
          <div className="flex gap-6 items-center justify-between mb-12">
             <h2 className="text-3xl font-semibold">Cookies</h2>
             <button
